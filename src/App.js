@@ -1,3 +1,5 @@
+// start of the application
+
 import { Component } from "react";
 import "./App.css";
 import React from "react";
